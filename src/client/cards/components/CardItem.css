@@ -1,0 +1,27 @@
+.card-item {
+  width: 30%;
+  height: 5rem;
+  border: 1px solid black;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background: #f3f3f3;
+  height: 250px;
+  margin: 10px;
+}
+
+.card-item__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.card-item__checkbox {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-item__checkbox input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}

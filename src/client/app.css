@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #fffcfc;
+}
+
+.input-styles {
+  padding: 8px 12px;
+  border-radius: 12px;
+  width: 100%;
+  margin-bottom: 10px;
+  outline: none;
+}

@@ -1,0 +1,19 @@
+.login h2 {
+  color: #fff;
+}
+
+.login__wrapper {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login__form {
+  width: 70%;
+}
+
+.login__title {
+  text-align: center;
+  text-transform: uppercase;
+}

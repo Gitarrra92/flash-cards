@@ -1,0 +1,13 @@
+.nav-links {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+}
+.nav-links__link {
+  margin-right: 10px;
+}
+
+.nav-links__link a {
+  color: white;
+  text-decoration: none;
+}
